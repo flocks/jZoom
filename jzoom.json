@@ -1,0 +1,38 @@
+{
+	"name": "jZoom",
+	"title": "jQuery zoom",
+	"description": "Implement zoom on any tag.",
+	"keywords": [
+		"jquery",
+		"zoom",
+		"plugins",
+		"transform",
+		"scale"
+	],
+	"version": "0.0.0",
+	"author": {
+		"name": "Florent Teissier",
+		"email": "teissierflorent@gmail.com",
+		"url": "https://github.com/flocks"
+	},
+	"maintainers": [
+		{
+			"name": "Florent Teissier",
+			"email": "teissierflorent@gmail.com",
+			"url": "https://github.com/flocks"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://zenorocha.mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/flocks/jzoom/issues",
+	"homepage": "https://github.com/flocks/jzoom",
+	"docs": "https://github.com/flocks/jzoom#readme",
+	"download": "https://github.com/flocks/jzoom/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}

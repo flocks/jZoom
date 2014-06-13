@@ -1,0 +1,22 @@
+{
+  "name": "jZoom",
+  "version": "0.0.0",
+  "homepage": "https://github.com/flocks/jZoom",
+  "authors": [
+    "Florent Teissier <teissierflorent@gmail.com>"
+  ],
+  "keywords": [
+    "zoom",
+    "translate",
+    "scale"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}
